@@ -1,0 +1,8 @@
+name = Devel Image Provider - Placebeet plugin
+description = Devel Image Provider plugin for placebeet.com
+package = Development
+core = 7.x
+dependencies[] = devel
+dependencies[] = devel_generate
+dependencies[] = devel_image_provider
+dependencies[] = ctools

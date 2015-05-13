@@ -1,0 +1,17 @@
+<?php
+/**
+ * Implements hook_ctools_plugin_type().
+ */
+function devel_image_provider_placebeet_ctools_plugin_type() {
+    $plugins['provider'] = array(
+      'classes' => array('class'),
+    );
+    return $plugins;
+}
+
+/**
+ * Implements hook_ctools_plugin_directory().
+ */
+function devel_image_provider_placebeet_ctools_plugin_directory($module, $plugin) {
+    return 'plugins/' . $module . '/' . $plugin;
+}
