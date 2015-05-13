@@ -20,4 +20,8 @@ Save the form.
 
 Then generate content with [Devel Generate](http://drupal.org/project/devel_generate) as usual.
 
+## Attribution
+
+The implementation of this plugin has in large parts been derived from the Placekitten plugin that ships with the Devel Image Provider module. I am taking very little credit here..
+
 
