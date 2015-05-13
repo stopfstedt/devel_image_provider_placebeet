@@ -9,7 +9,7 @@ For more info on Placebeet see the site's [GitHub repository](https://github.com
 
 Download and enable this module and all its dependencies in the [usual Drupal fashion](https://www.drupal.org/documentation/install/modules-themes).
 
-## Use
+## Usage
 
 From the admin toolbar, visit Admin > Configuration > Development > Devel Generate Image Providers.
 
